@@ -1,8 +1,8 @@
 {
   "name": "ironsworn",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "homepage": "https://gcoulby.github.io/IronswornCompanion",
+  "homepage": "https://pudgemorgan.github.io/mysworn",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
